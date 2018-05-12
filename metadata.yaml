@@ -1,0 +1,33 @@
+_repo: The-Memories-of-Fifty-YearsContaining-Brief-Biographical-Notices-of-Distinguished-Americans-a__15872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sparks, W. H. (William Henry)
+    alias: Sparks, William Henry
+    birthdate: 1800
+    deathdate: 1882
+    gutenberg_agent_id: '6351'
+    url: http://www.gutenberg.org/2009/agents/6351
+description: ''
+gutenberg_issued: '2005-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Georgia -- History -- 1775-1865'
+- !lcc 'F396'
+- !lcsh 'United States -- Biography'
+- !lcsh 'Southwest, Old -- History'
+title: 'The Memories of Fifty Years
+
+  Containing Brief Biographical Notices of Distinguished Americans, and Anecdotes
+  of Remarkable Men; Interspersed with Scenes and Incidents Occurring during a Long
+  Life of Observation Chiefly Spent in the Southwest'
+url: http://www.gutenberg.org/ebooks/15872
